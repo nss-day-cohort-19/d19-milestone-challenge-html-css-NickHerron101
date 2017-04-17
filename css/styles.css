@@ -1,0 +1,29 @@
+/*General*/
+body {
+	background-color: #167F5C;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1, h2, h3,  h4 {
+	background-color: #21BF8A;
+	width: 50%;
+}
+
+section#bio {
+	width: 50%;
+}
+
+section#links {
+	width: 50%;
+}
+
+li {
+	text-decoration: none;
+}
+section#newProjects {
+	width: 50%;
+}
+
+article.blog {
+	width: 50%;
+}
