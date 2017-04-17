@@ -9,15 +9,6 @@ for (var i = 0; i < blogPosts.length; i++) {
 	document.getElementById("blogPosts").innerHTML += string;
 }
 
-// for (var i = 0; i < games.length; i++) { // loop through the array
-// 		/// made a variable assigned to a string that will get looped through
-// 		var gameString = "<div class = 'card game" + (i + 1) + "'><h2>" + games[i].name + "</h2><p>" + games[i].description + "</p>" + "<p>" + "$" + games[i].price + "</p>" + "<p>" + "<img class='' src='" + games[i].img + "'></div>";
-// 		// assign the string, which has been looped through to the div "games" and come back around to being again
-// 		document.getElementById("games").innerHTML += gameString;
-// };
 
-// for ( var i = 0; i < jedi.length; i++){
-// // 	jediText += jedi[i] + " is a <strong>jedi.</strong> <br>";
-	jediText += `${jedi[i]} is a Jedi<br>`; //template string literal
 
 
